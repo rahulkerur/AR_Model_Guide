@@ -19,7 +19,11 @@ Marker Image:
 
 
 References:
+
 https://nicolcarpignoli.medium.com/
+
 https://aframe.io/
+
 https://aframe.io/docs/1.2.0/introduction/hosting-and-publishing.html
+
 https://aframe.io/docs/1.2.0/introduction/models.html
