@@ -9,5 +9,10 @@ https://docs.google.com/document/d/1Jluuqdawq1Iy4EpO3z156NubZYScLohGxTrD5gfejzk/
 Files used in the guide:
 https://drive.google.com/drive/folders/1xBSB7mSOHDqfcNRlHmxBsX90aas8B7dg?usp=sharing
 
+Website: https://ar3dmodelguide.neocities.org/
+
+![qrcode_ar3dmodelguide neocities org](https://user-images.githubusercontent.com/61990336/116814538-182d1e00-ab77-11eb-88f9-83d98f78ab06.png)
+
+
 Marker Image:
 ![Monkey_2D](https://user-images.githubusercontent.com/61990336/116814427-8cb38d00-ab76-11eb-9be9-919f6ba43ac4.jpg)
