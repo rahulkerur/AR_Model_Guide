@@ -16,3 +16,10 @@ Website: https://ar3dmodelguide.neocities.org/
 
 Marker Image:
 ![Monkey_2D](https://user-images.githubusercontent.com/61990336/116814427-8cb38d00-ab76-11eb-9be9-919f6ba43ac4.jpg)
+
+
+References:
+https://nicolcarpignoli.medium.com/
+https://aframe.io/
+https://aframe.io/docs/1.2.0/introduction/hosting-and-publishing.html
+https://aframe.io/docs/1.2.0/introduction/models.html
